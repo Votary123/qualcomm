@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1638871104,,"wq!"
+|2,0,1639026565,,"wq!"
+:q!
+|2,0,1639024873,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +27,82 @@
 # Registers:
 
 # File marks:
-'0  20  0  ~/python
-|4,48,20,0,1638871104,"~/python"
+'0  1  7  ~/payment.java
+|4,48,1,7,1639026565,"~/payment.java"
+'1  1  8  ~/supriya/elastic/vpc
+|4,49,1,8,1639025552,"~/supriya/elastic/vpc"
+'2  1  0  ~/suppu/suppu
+|4,50,1,0,1639024873,"~/suppu/suppu"
+'3  20  0  ~/python
+|4,51,20,0,1638871104,"~/python"
 
 # Jumplist (newest first):
+-'  1  7  ~/payment.java
+|4,39,1,7,1639026565,"~/payment.java"
+-'  1  8  ~/supriya/elastic/vpc
+|4,39,1,8,1639025552,"~/supriya/elastic/vpc"
+-'  1  8  ~/supriya/elastic/vpc
+|4,39,1,8,1639025552,"~/supriya/elastic/vpc"
+-'  1  0  ~/suppu/suppu
+|4,39,1,0,1639024873,"~/suppu/suppu"
+-'  1  0  ~/suppu/suppu
+|4,39,1,0,1639024873,"~/suppu/suppu"
+-'  1  0  ~/suppu/suppu
+|4,39,1,0,1639024873,"~/suppu/suppu"
+-'  1  0  ~/suppu/suppu
+|4,39,1,0,1639024873,"~/suppu/suppu"
+-'  20  0  ~/python
+|4,39,20,0,1638871104,"~/python"
+-'  20  0  ~/python
+|4,39,20,0,1638871104,"~/python"
+-'  20  0  ~/python
+|4,39,20,0,1638871104,"~/python"
+-'  20  0  ~/python
+|4,39,20,0,1638871104,"~/python"
+-'  20  0  ~/python
+|4,39,20,0,1638871104,"~/python"
+-'  20  0  ~/python
+|4,39,20,0,1638871104,"~/python"
+-'  20  0  ~/python
+|4,39,20,0,1638871104,"~/python"
 -'  20  0  ~/python
 |4,39,20,0,1638871104,"~/python"
 -'  1  0  ~/python
 |4,39,1,0,1638871021,"~/python"
+-'  1  0  ~/python
+|4,39,1,0,1638871021,"~/python"
+-'  1  0  ~/python
+|4,39,1,0,1638871021,"~/python"
+-'  1  0  ~/python
+|4,39,1,0,1638871021,"~/python"
+-'  1  0  ~/python
+|4,39,1,0,1638871021,"~/python"
+-'  1  0  ~/python
+|4,39,1,0,1638871021,"~/python"
+-'  1  0  ~/python
+|4,39,1,0,1638871021,"~/python"
+-'  1  0  ~/python
+|4,39,1,0,1638871021,"~/python"
 
 # History of marks within files (newest to oldest):
+
+> ~/payment.java
+	*	1639026563	0
+	"	1	7
+	^	1	8
+	.	1	8
+	+	1	8
+
+> ~/supriya/elastic/vpc
+	*	1639025547	0
+	"	1	8
+	^	121	9
+	.	121	8
+	+	121	8
+
+> ~/suppu/suppu
+	*	1639024870	0
+	"	1	0
 
 > ~/python
 	*	1638871100	0
